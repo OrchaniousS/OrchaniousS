@@ -1,10 +1,4 @@
 <h2> Hey there! I'm Orchan.</h2>
-<div align="center" style="margin: 40px 0">
-    <a href="https://github.com/antonkomarev/github-profile-views-counter">
-        <img width="175px" src="https://komarev.com/ghpvc/?username=OrchaniousS&color=DE002D">
-    </a>
-</div>
-
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
@@ -38,9 +32,12 @@
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
 <p align="center"> 
-<a href="https://orchan-portfolio.web.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.orchan-portfolio.web.app-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/orchan-magramov"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Orchan%20Magramov-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/orhanmm19/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-orhanmm19-blue?style=flat-square&logo=instagram"></a>
 </p>
+<div align="center" style="margin: 40px 0">
+    <a href="https://github.com/antonkomarev/github-profile-views-counter">
+        <img width="175px" src="https://komarev.com/ghpvc/?username=OrchaniousS&color=DE002D">
+    </a>
+</div>
