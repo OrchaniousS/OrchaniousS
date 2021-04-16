@@ -1,5 +1,5 @@
 <h2> Hey there! I'm Orchan.</h2>
-<h3> 🛠 &nbsp; Stack 🛠</h3>
+<h3> 🛠 &nbsp;Stack 🛠</h3>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -39,5 +39,6 @@
 <div align="center" style="margin: 40px 0">
     <a href="https://github.com/antonkomarev/github-profile-views-counter">
         <img width="175px" src="https://komarev.com/ghpvc/?username=OrchaniousS&color=red&style=plastic&label=PROFILE+VIEWS">
+      ![](https://komarev.com/ghpvc/?username=OrchaniousS&color=red&style=plastic&label=PROFILE+VIEWS)
     </a>
 </div>
