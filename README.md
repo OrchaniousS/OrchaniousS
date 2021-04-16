@@ -45,7 +45,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://orchan-portfolio.web.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/orchan-magramov"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/orhanmm19/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
+<a href="https://orchan-portfolio.web.app/"><img alt="Website" src="https://img.shields.io/badge/Website-orchan-portfolio.web.app-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/orchan-magramov"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Orchan%20Magramov-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/orhanmm19/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-orhanmm19-blue?style=flat-square&logo=instagram"></a>
 </p>
