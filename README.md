@@ -1,5 +1,5 @@
 <h2> Hey there! I'm Orchan.</h2>
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> 🛠 &nbsp; Stack 🛠</h3>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -35,8 +35,9 @@
 <a href="https://www.linkedin.com/in/orchan-magramov"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Orchan%20Magramov-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/orhanmm19/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-orhanmm19-blue?style=flat-square&logo=instagram"></a>
 </p>
+
 <div align="center" style="margin: 40px 0">
     <a href="https://github.com/antonkomarev/github-profile-views-counter">
-        <img width="175px" src="https://komarev.com/ghpvc/?username=OrchaniousS&color=DE002D">
+        <img width="175px" src="https://komarev.com/ghpvc/?username=OrchaniousS&color=red&style=plastic&label=PROFILE+VIEWS">
     </a>
 </div>
