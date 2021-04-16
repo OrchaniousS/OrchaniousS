@@ -1,7 +1,4 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
-
 <h2> Hey there! I'm Orchan.</h2>
-
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick bots.
@@ -45,7 +42,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://orchan-portfolio.web.app/"><img alt="Website" src="https://img.shields.io/badge/Website-orchan-portfolio.web.app-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://orchan-portfolio.web.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.orchan-portfolio.web.app-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/orchan-magramov"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Orchan%20Magramov-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/orhanmm19/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-orhanmm19-blue?style=flat-square&logo=instagram"></a>
 </p>
