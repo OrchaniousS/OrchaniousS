@@ -41,5 +41,4 @@
         <img width="175px" src="https://komarev.com/ghpvc/?username=OrchaniousS&color=red&style=plastic&label=PROFILE+VIEWS">
     </a>
 </div>
-![Profile Views](https://komarev.com/ghpvc/?username=OrchaniousS&color=red&style=plastic&label=PROFILE+VIEWS)
 
