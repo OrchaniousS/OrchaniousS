@@ -1,4 +1,10 @@
 <h2> Hey there! I'm Orchan.</h2>
+<div align="center" style="margin: 40px 0">
+    <a href="https://github.com/antonkomarev/github-profile-views-counter">
+        <img width="175px" src="https://komarev.com/ghpvc/?username=OrchaniousS&color=DE002D">
+    </a>
+</div>
+
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick bots.
@@ -6,7 +12,6 @@
 - 💼 &nbsp; Looking for a Full Time Full Stack Developer Job.
 - 🌱 &nbsp; Learning more about Artificial Intelligence and Machine Learning.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
-<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 - 💻 &nbsp;
@@ -28,6 +33,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 - 🖥 &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+  
 <br/>
 
 <a href="https://github.com/AVS1508">
