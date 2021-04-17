@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Orchan.</h2>
+<h2> Hey there! I'm Orchan. <a href="https://emoji.gg/emoji/3005_sad_pain_pepe"><img src="https://emoji.gg/assets/emoji/3005_sad_pain_pepe.png" width="64px" height="64px" alt="sad_pain_pepe"></a></h2>
 <h3> 🛠 &nbsp;Stack 🛠</h3>
 
 - 💻 &nbsp;
@@ -33,12 +33,11 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <p align="center"> 
 <a href="https://www.linkedin.com/in/orchan-magramov"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Orchan%20Magramov-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/orhanmm19/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-orhanmm19-blue?style=flat-square&logo=instagram"></a>
-</p>
 
 <div align="center" style="margin: 40px 0">
     <a href="https://github.com/antonkomarev/github-profile-views-counter">
         <img width="175px" src="https://komarev.com/ghpvc/?username=OrchaniousS&color=red&style=plastic&label=PROFILE+VIEWS">
     </a>
 </div>
+</p>
 
