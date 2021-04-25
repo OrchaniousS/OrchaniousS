@@ -28,12 +28,12 @@
 <a href="https://github.com/OrchaniousS">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OrchaniousS&theme=algolia&show_icons=true&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrchaniousS&theme=algolia&layout=compact&langs_count=8" />
-</a>
 </p>
 
 <h3 align="center" > 🤝🏻 &nbsp;Connect with Me </h3>
 <p align="center"> 
 <a href="https://www.linkedin.com/in/orchan-magramov"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Orchan%20Magramov-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://www.codewars.com/users/OrchaniousS"><img alt="LinkedIn" src="https://img.shields.io/badge/Codewars-Orchan%20Magramov-red?style=flat-square"></a>
 <div align="center" style="margin: 40px 0">
     <a href="https://github.com/antonkomarev/github-profile-views-counter">
         <img width="175px" src="https://komarev.com/ghpvc/?username=OrchaniousS&color=red&style=plastic&label=PROFILE+VIEWS">
