@@ -17,25 +17,21 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OrchaniousS&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrchaniousS&theme=buefy&layout=compact" />
-</a>
+
 <br/>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OrchaniousS&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrchaniousS&theme=buefy&layout=compact" />
 </a>
 </p>
 
 <h3 align="center" > 🤝🏻 &nbsp;Connect with Me </h3>
 <p align="center"> 
 <a href="https://www.linkedin.com/in/orchan-magramov"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Orchan%20Magramov-blue?style=flat-square&logo=linkedin"></a>
-
 <div align="center" style="margin: 40px 0">
     <a href="https://github.com/antonkomarev/github-profile-views-counter">
         <img width="175px" src="https://komarev.com/ghpvc/?username=OrchaniousS&color=red&style=plastic&label=PROFILE+VIEWS">
