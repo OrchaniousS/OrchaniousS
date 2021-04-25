@@ -25,7 +25,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/OrchaniousS">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OrchaniousS&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrchaniousS&theme=buefy&layout=compact" />
 </a>
