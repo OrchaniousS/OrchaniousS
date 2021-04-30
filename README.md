@@ -1,5 +1,5 @@
 <h2> Hey there! I'm Orchan Magramov. <a href="https://emoji.gg/emoji/3005_sad_pain_pepe"><img src="https://emoji.gg/assets/emoji/3005_sad_pain_pepe.png" width="64px" height="64px" alt="sad_pain_pepe"></a></h2>
-<h3> 🛠 &nbsp;Stack 🛠</h3>
+<h3> 🛠 &nbsp;Tech Stack 🛠</h3>
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
