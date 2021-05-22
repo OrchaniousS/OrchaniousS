@@ -33,7 +33,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrchaniousS&theme=algolia&layout=compact&langs_count=8" />
 </p>
 
-<h3 align="center" > 🤝🏻 &nbsp;Connect with Me </h3>
+<h3 align="center" > 🤝🏻 &nbsp;Contact 🤝🏻 &nbsp; </h3>
 <p align="center"> 
 <a href="https://www.linkedin.com/in/orchan-magramov"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Orchan%20Magramov-blue?style=flat-square&logo=linkedin"></a>
   <a href="https://www.codewars.com/users/OrchaniousS"><img alt="LinkedIn" src="https://img.shields.io/badge/Codewars-Orchan%20Magramov-red?style=flat-square"></a>
